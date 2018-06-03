@@ -1,14 +1,14 @@
 # notes-on-papers
-Summary of papers related to Deep Learning , Reinforcement Learning and Computer Vision.
-Under Construction
+
+Summary of papers related to Reinforcement Learning, Deep Learning, and Computer Vision.
 
 
 
-#Video Objective Tracking
+**Video Objective Tracking**
 
-#Semantic Segmentation
+**Semantic Segmentation**
 
-#Feature Extraction
+**Feature Extraction**
 - [Reinforcement Learning with Unsupervised Auxiliary Tasks](https://arxiv.org/abs/1611.05397)
 
 
