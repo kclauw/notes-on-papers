@@ -4,10 +4,12 @@ Under Construction
 
 
 
+#Video Objective Tracking
 
-# Evolutionary Deep Learning
-Hierarchical Representations For Efficient Architecture Search 
-https://arxiv.org/pdf/1711.00436.pdf
+#Semantic Segmentation
+
+#Feature Extraction
+- [Reinforcement Learning with Unsupervised Auxiliary Tasks](https://arxiv.org/abs/1611.05397)
 
 
 # Reinforcement Learning
